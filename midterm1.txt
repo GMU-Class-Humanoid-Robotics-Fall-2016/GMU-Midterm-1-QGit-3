@@ -2,3 +2,4 @@ git checkout -b abcdefg
 git add midterm.txt
 git commit -m 'Updated midterm.txt'
 git push origin abcdefg
+video: https://www.youtube.com/watch?v=tWykJ-6iXwM
